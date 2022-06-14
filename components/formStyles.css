@@ -1,0 +1,8 @@
+.bgForm {
+  width: 50%;
+  margin: 0 auto;
+  background-color: red;
+}
+.border-round {
+  border-radius: 10px;
+}
